@@ -45,9 +45,33 @@ Meu foco é backend — com atenção à arquitetura, qualidade de código, boas
 
 ## 🛠️ Projetos em destaque
 
-### 🔹 [java-api-trilha-itau](https://github.com/Akemi-Samantha/java-api-trilha-itau)
+### 🔹 [TechManage-Desafio](https://github.com/Akemi-Samantha/TechManage-Desafio)  
+> API RESTful com Spring Boot 3. Projeto completo com boas práticas de arquitetura, segurança, DTOs, mapeamentos e camada de serviço.  
+> Ideal para simular uma aplicação real com foco em manutenibilidade e organização.
+
+---
+
+### 🔹 [Desafio-Java-AWS-SQS-Lambda-S3](https://github.com/Akemi-Samantha/Desafio-Java-AWS-SQS-Lambda-S3)  
+> Projeto que demonstra integração com serviços da AWS (SQS, Lambda e S3).  
+> Mostra domínio de conceitos de cloud, filas assíncronas e triggers de eventos.
+
+---
+
+### 🔹 [Mercado-Livro-Kotlin-Spring](https://github.com/Akemi-Samantha/Mercado-Livro-Kotlin-Spring)  
+> API construída em Kotlin com Spring Boot, simulando uma aplicação de livraria.  
+> Um ótimo exemplo do uso de outra linguagem para backend, com controle de entidades e arquitetura REST.
+
+---
+
+### 🔹 [Aplicacao-Receita-Estudo](https://github.com/Akemi-Samantha/Aplicacao-Receita-Estudo)  
+> Projeto de estudo para consumo de API pública de receitas.  
+> Utiliza Spring Boot + MVC para consumir e persistir dados localmente com foco didático.
+
+---
+
+### 🔹 [java-api-trilha-itau](https://github.com/Akemi-Samantha/ExpectativasMercadoAnuais) 
 > Projeto desenvolvido na Trilha de Java do Itaú.  
-> Simula o consumo de dados via API externa, persistência local com Spring Boot e estrutura MVC simples.
+> Simula o consumo de dados via API externa e gravação em banco local com estrutura MVC.
 
 ---
 
